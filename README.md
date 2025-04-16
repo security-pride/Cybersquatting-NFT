@@ -1,4 +1,8 @@
-**Data Availability Statement**
+# Cybersquatting NFT Dataset
+Dataset for paper "Cybersquatting in Web3: The Case of NFT"
+
+
+# Data Availability Statement
 
 Due to GitHub's 2GB storage limit, only a subset of key data is available here. 
 
@@ -23,4 +27,3 @@ The shared datasets include:
 The files **`NFTTokenURI.csv`**, **`NFTTransfer.csv`**, and **`MarketTrade.csv`** contain extensive data that exceeds GitHub’s storage limit. 
 Therefore, each of these files includes only a subset of 10,000 entries to ensure accessibility within the platform’s constraints.
 
-**Nevertheless, if reviewers require access to the full dataset during the review process, we will make the requested subset available in the rebuttal phase.**
